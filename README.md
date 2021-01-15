@@ -15,6 +15,7 @@ function getRandomNumber() {
 ```
 
 2. Math.random() with multiple values (hex.js)
+```
 
 let hexColor = "#";
 for (let i = 0; i<6; i++) {
@@ -23,3 +24,4 @@ for (let i = 0; i<6; i++) {
 
 }
 
+```
