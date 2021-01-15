@@ -6,7 +6,6 @@
 
 1. Math.random() with one value of an array (app.js):
 ```
-
 function getRandomNumber() {
 
  return Math.floor(Math.random() * colors.length)
@@ -16,7 +15,6 @@ function getRandomNumber() {
 
 2. Math.random() with multiple values (hex.js)
 ```
-
 let hexColor = "#";
 for (let i = 0; i<6; i++) {
 
