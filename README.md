@@ -4,7 +4,7 @@
 
 <h3>The takeaway is: how to use Math.random()</h3>
 
-1. Math.random() with values of an array (app.js):
+1. Math.random() with one value of an array (app.js):
 ```
 
 function getRandomNumber() {
@@ -23,5 +23,7 @@ for (let i = 0; i<6; i++) {
     hexColor+= hex[getRandomNumber()]
 
 }
-
+function getRandomNumber() {
+    return Math.floor(Math.random() * hex.length)
+}
 ```
