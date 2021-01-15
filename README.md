@@ -1,6 +1,6 @@
 # color-flipper
 
-This is the first project of FreeCodeCamp's Javascript tutorials. 
+<h3>This is the first project of FreeCodeCamp's Javascript tutorials. </h3>
 
 The takeaway is: how to use Math.random()
 
