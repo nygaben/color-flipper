@@ -2,7 +2,7 @@
 
 <h3>This is the first project of FreeCodeCamp's Javascript tutorials. </h3>
 
-<h2>The takeaway is: how to use Math.random()</h2>
+<h4>The takeaway is: how to use Math.random()</h4>
 
 1. Math.random() with values of an array (app.js):
 
