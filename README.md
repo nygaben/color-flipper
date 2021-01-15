@@ -6,12 +6,12 @@
 
 1. Math.random() with values of an array (app.js):
 
-<code>function getRandomNumber() {
+<xmp>function getRandomNumber() {
 
  return Math.floor(Math.random() * colors.length)
 
 }
-</code>
+</xmp>
 
 2. Math.random() with multiple values (hex.js)
 
